@@ -1,0 +1,6 @@
+temp.dat
+*.dat
+*.pdf
+!result.pdf
+# this is a comment
+*.temp
